@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'I love you' > /tmp/iamafile | type  /tmp/iamafile
+type /tmp/iamafile
